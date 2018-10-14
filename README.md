@@ -5,4 +5,6 @@ The aim of this image it's to have all the required dependencies in just one ima
 
 ## Modules installed
 
+Flask as web development framework http://flask.pocoo.org/docs/1.0/
+
 Mutation testing with cosmic-ray, you can find more info in: https://cosmic-ray.readthedocs.io/en/latest/index.html
